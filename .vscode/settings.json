@@ -3,5 +3,8 @@
     {
       "mode": "auto"
     }
-  ]
+  ],
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.tabSize": 2,
+  "editor.fontSize": 13
 }
